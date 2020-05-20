@@ -1,0 +1,33 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="_principal.master.vb" Inherits="ObraSocialSistema._principal" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link rel="stylesheet" href="bootstrap.min.css"  />
+    <script type="text/javascript" src="bootstrap.min.js"></script>
+    <script type="text/javascript" src="jquery-3.0.0.min.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        
+    <div class="container-fluid navbar-inverse">
+             <asp:Menu ID="objmenu" runat="server" Orientation="Horizontal" RenderingMode="List" IncludeStyleBlock="false" StaticMenuStyle-CssClass="nav navbar-nav float-left" DynamicMenuStyle-CssClass="dropdown-menu" CssClass ="navbar navbar-inverse" runat=server>
+                
+             </asp:Menu><asp:Button ID="Button1" runat="server" Text="Cerrar Sesion" CausesValidation="False" CssClass="btn btn-danger position: absolute; right: 0;"/>
+            
+            </div>
+       
+    
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </form>
+</body>
+</html>

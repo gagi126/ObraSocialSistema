@@ -1,0 +1,284 @@
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.dll.config
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.pdb
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.xml
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.exe
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.exe.config
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.rsp
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.exe
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.exe.config
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.rsp
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.AppContext.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Console.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Compression.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Pipes.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Claims.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.ValueTuple.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.exe
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.exe.config
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.rsp
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\VBCSCompiler.exe
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbprojAssemblyReference.cache
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.Resources.resources
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.GenerateResource.cache
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.CoreCompileInputs.cache
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.CopyComplete
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.dll
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.xml
+C:\Users\galbornozsalafia\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.pdb
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.dll.config
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.pdb
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.xml
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.exe
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.exe.config
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.rsp
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.exe
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.exe.config
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.rsp
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.AppContext.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Console.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Compression.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Pipes.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Claims.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.ValueTuple.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.exe
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.exe.config
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.rsp
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\VBCSCompiler.exe
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbprojAssemblyReference.cache
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.Resources.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.GenerateResource.cache
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.CoreCompileInputs.cache
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.CopyComplete
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.xml
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Laboratorio IV\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.pdb
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.dll.config
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.pdb
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.xml
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.exe
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.exe.config
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.rsp
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.exe
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.exe.config
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.rsp
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.AppContext.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Console.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Compression.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Claims.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.ValueTuple.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.exe
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.exe.config
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.rsp
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\VBCSCompiler.exe
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbprojAssemblyReference.cache
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.Resources.resources
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.GenerateResource.cache
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.CopyComplete
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.xml
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.pdb
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\Antlr3.Runtime.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\Newtonsoft.Json.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Helpers.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Mvc.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Optimization.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Razor.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.Razor.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\WebActivatorEx.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\WebGrease.dll
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\Antlr3.Runtime.pdb
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\Newtonsoft.Json.xml
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Helpers.xml
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Mvc.xml
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Optimization.xml
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Razor.xml
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.xml
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.Razor.xml
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.CoreCompileInputs.cache
+C:\Users\SENTEY-PC\source\repos\ObraSocialSistema\ObraSocialSistema\bin\AjaxControlToolkit.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.dll.config
+G:\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.pdb
+G:\ObraSocialSistema\ObraSocialSistema\bin\ObraSocialSistema.xml
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.exe
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.exe.config
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csc.rsp
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.exe
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.exe.config
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\csi.rsp
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.AppContext.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Collections.Immutable.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Console.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Compression.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.FileSystem.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.IO.Pipes.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Reflection.Metadata.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.AccessControl.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Claims.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Security.Principal.Windows.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.ValueTuple.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XPath.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.exe
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.exe.config
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\vbc.rsp
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\VBCSCompiler.exe
+G:\ObraSocialSistema\ObraSocialSistema\bin\roslyn\VBCSCompiler.exe.config
+G:\ObraSocialSistema\ObraSocialSistema\bin\AjaxControlToolkit.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\Antlr3.Runtime.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\Microsoft.Web.Infrastructure.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\Newtonsoft.Json.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Helpers.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Mvc.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Optimization.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Razor.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.Deployment.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.Razor.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\WebActivatorEx.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\WebGrease.dll
+G:\ObraSocialSistema\ObraSocialSistema\bin\Antlr3.Runtime.pdb
+G:\ObraSocialSistema\ObraSocialSistema\bin\Newtonsoft.Json.xml
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Helpers.xml
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Mvc.xml
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Optimization.xml
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.Razor.xml
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.xml
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.Deployment.xml
+G:\ObraSocialSistema\ObraSocialSistema\bin\System.Web.WebPages.Razor.xml
+G:\ObraSocialSistema\ObraSocialSistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbprojAssemblyReference.cache
+G:\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.Resources.resources
+G:\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.GenerateResource.cache
+G:\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.CoreCompileInputs.cache
+G:\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.vbproj.CopyComplete
+G:\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.dll
+G:\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.xml
+G:\ObraSocialSistema\ObraSocialSistema\obj\Debug\ObraSocialSistema.pdb
